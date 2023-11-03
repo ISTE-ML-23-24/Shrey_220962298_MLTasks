@@ -5,4 +5,4 @@
 |Learn/revise numpy|	      Yes	|    Numpy: [Numpy Revision](https://www.youtube.com/watch?v=QUT1VHiLmmI) |
 |Learn to setup proper python environments using anaconda/any virtual environment managers or how to use google colab or kaggle fornotebook  |  Yes | [Virtual Environment Setup](https://www.freecodecamp.org/news/how-to-setup-virtual-environments-in-python/)|
 |Complete at least 3stars or equivalent in python hackerank	   | Yes|     [Shrey's HackerRank](https://www.hackerrank.com/9shrey)|
-|Perform Exploratory Data analysis on the following dataset:    | No|	    [Kaggle DataSet](https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata/)|
+|Perform Exploratory Data analysis on the following dataset:    | Yes|	    [Kaggle DataSet](https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata/)|
